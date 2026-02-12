@@ -25,6 +25,7 @@ SQL Server Analysis Services (SSAS) · Power Query · Power BI (Modeling & Visua
 <img src="https://placehold.jp/24/1F5FA6/1F5FA6/1500x10.png?text=%20" width="100%" height="3px" />
 
 ## 1) Morning Huddle Dashboard
+![Morning Huddle Dashboard](screenshots/morning-huddle-dashboard.png)
 
 Daily production and schedule pacing tool used by practice leaders to identify same-day gaps and near-term risks.
 
@@ -34,9 +35,14 @@ Daily production and schedule pacing tool used by practice leaders to identify s
 - Provider-level pacing and bottlenecks
 - Early identification of underfilled hygiene or doctor days
 
+Data Model:
+  ![Data Model](screenshots/morning-huddle-star-schema.png)
+
 <img src="https://placehold.jp/24/1F5FA6/1F5FA6/1500x10.png?text=%20" width="100%" height="3px" />
 
 ## 2) Overtime and Labor Dashboard
+
+![Overtime Analysis Dashboard](screenshots/overtime-analysis-dashboard.png)
 
 Operational labor diagnostic tool used to understand where staffing levels diverge from production demand.
 
@@ -49,6 +55,8 @@ Operational labor diagnostic tool used to understand where staffing levels diver
 <img src="https://placehold.jp/24/1F5FA6/1F5FA6/1500x10.png?text=%20" width="100%" height="3px" />
 
 ## 3) Hygiene Re-appointment Opportunity Dashboard
+
+![Hygiene Reappointment Dashboard](screenshots/hygiene-reappointment-opportunity-dashboard.png)
 
 Bridging tool connecting historical performance to near-term revenue pipeline.
 
